@@ -1,5 +1,5 @@
 # Flashrom_AppImage
-Unoffical
+<br>Unoffical<br/>
 1ST make a backup
 
 `sudo ./FlashRom-x86_64.AppImage -p ch341a_spi -c "W25Q64BV/W25Q64CV/W25Q64FV" -r /home/lucas/Downloads/lucas2.bin`
